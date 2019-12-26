@@ -1,4 +1,6 @@
-# cabal-macosx
+# cabal-macosx-examples
+
+Here you can find some examples to implement the usage of [cabal-macosx](https://github.com/danfran/cabal-macosx) for Haskell.
 
 ## Examples
 
